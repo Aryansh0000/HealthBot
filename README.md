@@ -4,7 +4,7 @@ A client-server interface for patients to communicate to doctors via text.
 
 Abstract:
 
-The main objective of this project is to "reduce the cost and time for patients, and to gets response on the question asked, the response can be obtained from a man-made machine."
+The main objective of this project is to reduce the cost and time for patients to get a response on the question, than the response that is obtained from a man-made machine."
 
 The Live-Chats are the computer programs that interact with the users by connecting them to a network of available doctors for consultation and appointments. 
 
